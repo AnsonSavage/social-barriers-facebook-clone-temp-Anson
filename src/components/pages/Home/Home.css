@@ -1,0 +1,15 @@
+.home {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  flex-flow: row;
+  background: rgb(244, 246, 247);
+}
+
+.content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
